@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.balance {
+  height: 70px;
+  width: 80px;
+}
+.balance-container {
+  display: flex;
+  width: 250px;
+  height: 150px;
+  border: solid 1px #7e858e;
+  align-items: center;
+  background-color: #ecfccb;
+  padding: 10px;
+  justify-content: space-around;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.income-container {
+  display: flex;
+  width: 250px;
+  height: 150px;
+  border: solid 1px #7e858e;
+  align-items: center;
+  background-color: #cffafe;
+  padding: 10px;
+  justify-content: space-around;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.expenses-container {
+  display: flex;
+  width: 250px;
+  height: 150px;
+  border: solid 1px #7e858e;
+  align-items: center;
+  background-color: #ede9fe;
+  padding: 10px;
+  justify-content: space-around;
+  margin-top: 30px;
+  border-radius: 10px;
+}
